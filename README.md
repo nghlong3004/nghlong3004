@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nghlong3004&radius=16&theme=calm_pink&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghlong3004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghlong3004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm_pink&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
