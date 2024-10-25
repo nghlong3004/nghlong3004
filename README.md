@@ -10,7 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=nghlong3004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="150" alt="streak graph" /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nghlong3004&radius=50&hide_border=false&theme=material-palenight" height="150" alt="activity-graph graph"  />
